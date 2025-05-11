@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import joblib
 import dill
 
 # Load the pretrained model
